@@ -1,0 +1,26 @@
+body{
+    background-color: red;
+}
+
+
+
+.container{
+    background-color: aliceblue;
+}
+
+.container2{
+    background-color: aqua ;
+
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+
+.head1{
+    text-align: center;
+    color: aquamarine;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-decoration-color: blue;
+    text-decoration-style: double;
+}
