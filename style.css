@@ -13,6 +13,7 @@ body{
 
     text-align: center;
     text-transform: uppercase;
+    text-shadow: 4px 2px 2px red;
     
 }
 
@@ -20,7 +21,16 @@ body{
     text-align: center;
     color: aquamarine;
     text-transform: uppercase;
-    text-decoration: underline;
+    /*text-decoration: underline;*/
     text-decoration-color: blue;
     text-decoration-style: double;
+    /*letter-spacing: 100px;*/
+    text-shadow: -3px -5px 5px blue;
+}
+
+.para{
+    font-weight: bold;
+    font-style: italic;
+    word-spacing: 20px;
+    line-height: 50px;
 }
