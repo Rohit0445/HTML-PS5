@@ -1,0 +1,19 @@
+.parent{
+    display: flex;
+    justify-content:space-around;
+    padding: 100px;
+    background-color: rgb(49, 5, 96);
+    align-items:center;
+}
+
+
+
+.parent div{
+    color: white;
+}
+
+button{
+    background-color: red;
+    height: 50px;
+    color: white;
+}

@@ -1,0 +1,50 @@
+.head{
+    text-align: center;
+    padding-top: 50px;
+    
+}
+
+
+
+
+.parent{
+    display: flex;
+    padding: 50px;
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+    
+}
+
+.twitter{
+    padding: 25px;
+    margin: 20px;
+    border: 2px solid black;
+}
+
+.instagram{
+    padding: 25px;
+    border: 2px solid black;
+    margin: 20px;
+}
+
+.youtube{
+    padding: 25px;
+    border: 2px solid black;
+    margin: 20px;
+}
+
+img{
+    width: 100px;
+    
+}
+
+button{
+    background-color: black;
+    color: white;
+    border: 2px soliod black;
+    border-radius: 50px;
+    width: 250px;
+    height: 50px;
+    
+}
