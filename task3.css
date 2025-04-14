@@ -1,0 +1,24 @@
+.parent{
+    display: flex;
+    justify-content:space-between;
+    padding: px;
+    align-items:center;
+    
+
+}
+
+
+
+div{
+    padding: 50px;
+}
+
+
+
+
+button{
+    background-color: red;
+    height: 50px;
+    width: 150PX;
+    color: white;
+}
