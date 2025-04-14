@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: cornflowerblue;
+}
+
+.navbar ul{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+
+.hero{
+    height: 100vh;
+    background-image: url(IMG-20241221-WA0077.jpg);
+    background-size: cover;
+}
+
+.content{
+    height: 50vh;
+    background-image: url(Passport\ size\ photo.jpg);
+    background-repeat: no-repeat;
+}
