@@ -7,6 +7,8 @@ body{
     justify-content: space-evenly;
     align-items: center;
     background-color: cornflowerblue;
+    position: sticky;
+    top: 0%;
 }
 
 .navbar ul{
@@ -23,6 +25,6 @@ body{
 
 .content{
     height: 50vh;
-    background-image: url(Passport\ size\ photo.jpg);
+    background-image: url(Passport\ size\ photo.jpgposition);
     background-repeat: no-repeat;
 }
