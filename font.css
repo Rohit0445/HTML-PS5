@@ -1,0 +1,19 @@
+h1{
+    font-family: "Bungee Spice", sans-serif;
+}
+
+h2{
+    font-family: "Winky Rough", sans-serif;
+}
+
+p{
+    font-family: "Playwrite RO", cursive;
+}
+
+.name::after{
+    content: "  MEENA";
+}
+
+.name::before{
+    content: "MR .";
+}

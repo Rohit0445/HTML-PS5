@@ -1,0 +1,13 @@
+input::placeholder{
+    color: red;
+}
+
+p::selection{
+    color: red;
+    background-color: blueviolet;
+}
+
+h1{
+
+    font-family: Arial, Helvetica, sans-serif;
+}
